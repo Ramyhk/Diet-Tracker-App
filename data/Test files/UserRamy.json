@@ -1,0 +1,23 @@
+{
+  "logs": [
+    {
+      "date": "2022-10-09",
+      "foodName": "Chicken",
+      "protein": 1,
+      "carbohydrate": 2,
+      "fat": 3,
+      "sugar": 4
+    },
+    {
+      "date": "2022-11-10",
+      "foodName": "Beef",
+      "protein": 3,
+      "carbohydrate": 5,
+      "fat": 7,
+      "sugar": 9
+    }
+  ],
+  "memberNum": 0,
+  "passWord": "12345",
+  "userName": "RamyTheGod"
+}

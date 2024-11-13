@@ -1,0 +1,13 @@
+{
+    "passWord": "12345",
+    "memberNum": 0,
+    "userName": "Ramy",
+    "logs": [{
+        "date": "2022-10-31",
+        "foodName": "Swine Meat",
+        "protein": 1,
+        "fat": 3,
+        "sugar": 4,
+        "carbohydrate": 2
+    }]
+}
