@@ -39,25 +39,18 @@ to add food of whatever name or macronutrient composition, or simply view histor
 
 ## *Driving Factors in Development*
 
-Not only do I seek to develop my programming knowledge with a challenging and 
-atypical project choice, but I hold a deep relationship with fitness- particularly with an involvement
-to bodybuilding and certified personal training.
+Having a deep relationship with fitness and being a professional natural bodybuilder, I found this application to be fitting and motivating. I sought to bring my insight as a certified personal trainer and nutritionist into design decisions.
 
-I compete in the **World's Natural Bodybuilding Federation (WNBF)** and **Canadian Physique Alliance (CPA)**
-organizations in Men's bodybuilding, classic bodybuilding, and physique. 
-Additionally, I am a Certified Personal Trainer and Nutritionist through the 
-**International Sports Sciences Association (ISSA)**. At the University of British Columbia,
-I am the current president and founder of the largest fitness organization and supplement
+For context, I am a professional bodybuilder through the **World's Natural Bodybuilding Federation (WNBF)** and **Canadian Physique Alliance (CPA)** in the Men's bodybuilding, classic bodybuilding, and physique categories. I am certified as a Certified Personal Trainer and Nutritionist through the 
+**International Sports Sciences Association (ISSA)**. At the University of British Columbia, I am founder of the largest fitness organization and supplement
 retailer on campus, **UBC Powerbuilding**.
 
-Fitness and health has burrowed itself deep in my persona, and I hold a certainty that the 
-development of a program, such as thus, will sustain my own interest and could pose
-benefit to the personal training of others, those in my organization, and myself.
+
 
 
 ## *User Stories*
 
-In the context of this program (considering ongoing development):
+Through this application's development:
 - As a user, I want to be able to enter a username to receive individualized system responses.
 - As a user, I want to view all log submissions with the day they were submitted.
 - As a user, I want to be able to submit a log of a food and its macronutrients for each day.
@@ -82,7 +75,7 @@ exiting the program.
 - You can reload the state of my application by selecting the 'Load Profile Data' upon startup of the program, where 
 user data is loaded and all other functionality remains.
 
-## *Phase 4: Task 2*
+## *Phase 4: Task 2 (Committed Changes)*
 
 Wed Nov 30 22:24:30 MST 2022
 Added the Cow Meat food item to the User's Nutrition Logs on 2022-10-11
@@ -94,7 +87,7 @@ Wed Nov 30 22:25:52 MST 2022
 Cleared existing Nutrition Logs from User history
 
 
-## *Phase 4: Task 3*
+## *Phase 4: Task 3 (Comments)*
 - Reflecting on the UML Design, I recognize a very simple design structure. The notion of a single class, Gui, leads me 
 to believe that refactoring is possible, particularly in relation with the single responsibility principle. This
 leads me to my first point on the topic of refactoring to improve upon this design below:
