@@ -65,7 +65,7 @@ In the context of this program (considering ongoing development):
 - As a user, when I submit my Nutrition Logs, I want the option to save logged User Profile information to a file.
 - As a user, I want to be able to load my file of past Nutrition Logs for particular User Profile.
 
-## *Instructions for Grader*
+## *Functionality Notes*
 
 - You can generate the first required event related to adding Nutrition Logs to a User Profile by either selecting
 'Load Profile Data' or 'Create New Profile' in the main menu screen. Once selected, users can add a Nutrition log by 
