@@ -43,7 +43,7 @@ Having a deep relationship with fitness and being a professional natural bodybui
 
 For context, I am a professional bodybuilder through the **World's Natural Bodybuilding Federation (WNBF)** and **Canadian Physique Alliance (CPA)** in the Men's bodybuilding, classic bodybuilding, and physique categories. I am certified as a Certified Personal Trainer and Nutritionist through the 
 **International Sports Sciences Association (ISSA)**. At the University of British Columbia, I am founder of the largest fitness organization and supplement
-retailer on campus, **UBC Powerbuilding**.
+retailer on campus, **UBC Health & Fitness (formerly UBC Powerbuilding)**.
 
 
 
@@ -99,7 +99,7 @@ design concept of the single responsibility principle.
 prove difficult to understand upon first viewing to newcomers. I would extract primary behaviour lying in parts of
 larger methods into smaller, more specialized ones.
 - I also understand the Singleton Pattern to be a possible improvement to the structure of this program.
-DieTrack was initially perceived as an application overseeing a large user base. The current implementation, however, 
+DietTrack was initially perceived as an application overseeing a large user base. The current implementation, however, 
 revolves around a single instance of the UserProfile class. Supplementing global access to a single instance of a class,
 I would use the Singleton Pattern to refactor the code to ensure global access through an accessor method of sorts 
 where all functionality works on that one and only one instance of the User. This would make sense intuitively as well,
